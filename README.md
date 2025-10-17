@@ -31,7 +31,7 @@ A simplified version of the classic Pac-Man game built using **C++** and the **Q
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/IbrahimAL-Sawmhi/pacman-qt.git
+https://github.com/BawahabYousefOmar/Pac-Man-Game-.git
 
 2. Open the Project
 
@@ -51,8 +51,6 @@ PacManGame/
 └── README.md              # This file
 
 
-brahim Nasser Ali Al-Sawmhi
+Yousef Omar Bawahab.
 📍 New Cairo, Egypt
-📧 ibrahimnasser@aucegypt.edu
-🔗 LinkedIn: https://www.linkedin.com/in/ibrahim-nasser-ali-al-sawmhi-838057363/
-💻 GitHub: https://github.com/IbrahimAL-Sawmhi
+📧 yousefomar@aucegypt.edu
